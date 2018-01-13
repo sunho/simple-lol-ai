@@ -1,5 +1,6 @@
 # simple-lol-ai
 a deep learning AI for simeplelol, a simple 2d replica of LOL
+submitted to the school competition
 
 DISCLAIMER: THE CODE IS A CATASTROPHE
 TODO make the code literally readable
